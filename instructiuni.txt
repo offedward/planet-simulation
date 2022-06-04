@@ -1,0 +1,5 @@
+-descarci pycharm de pe https://www.jetbrains.com/pycharm/download/#section=windows
+-instalezi , lasi totul asa cum e si tu doar dai agree sau ce iti cere acolo
+-scrii manual totul
+-si cand e gata totul , sus in dreapta ai un buton verde sau ceva si apesi pe ala la final
+-ca sa opresti alt+f4
