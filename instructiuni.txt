@@ -1,5 +1,5 @@
--descarci pycharm de pe https://www.jetbrains.com/pycharm/download/#section=windows
--instalezi , lasi totul asa cum e si tu doar dai agree sau ce iti cere acolo
--scrii manual totul
--si cand e gata totul , sus in dreapta ai un buton verde sau ceva si apesi pe ala la final
--ca sa opresti alt+f4
+Info: this script is a simulation of our solar system.
+How to use: in order to execute this .py file you will need python installed on your computer. Open a CMD 
+or a Terminal and go to your directory where you cloned these files. Use "python" or "python3" followed by the
+name of the file
+Hope you enjoy this simulation.
