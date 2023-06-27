@@ -1,3 +1,4 @@
+#installed pygame 2.0.5
 import marshal
 from re import S
 import pygame
