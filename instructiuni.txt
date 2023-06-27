@@ -1,5 +1,9 @@
-Info: this script is a simulation of our solar system.
+Info: this is a python project that should theoretically represent a solar system , where I 
+used real values of the planets , physics , mass and radius of them. Theoretically this should work 
+like our solar system , because some of the planets moves faster and other a bit slowly like the red one.
+
 How to use: in order to execute this .py file you will need python installed on your computer. Open a CMD 
 or a Terminal and go to your directory where you cloned these files. Use "python" or "python3" followed by the
 name of the file
-Hope you enjoy this simulation.
+
+Hope you enjoy this simulation. 
