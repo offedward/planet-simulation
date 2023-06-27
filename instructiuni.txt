@@ -7,3 +7,5 @@ or a Terminal and go to your directory where you cloned these files. Use "python
 name of the file
 
 Hope you enjoy this simulation. 
+
+*this is just for testing / reversing to initial version later*
