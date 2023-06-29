@@ -1,4 +1,5 @@
 # planet-simulation
 
-this is a python project that should theoretically represent a solar system , where i used real values of the planets , physics , mass and radius of them.
-Theoretically this should work like our solar system , because some of the planets moves faster and other a bit slowly like the red one.
+Hello everyone. This project in python is inspired from a video that I found on YouTube. It should theoretically represent our solar system but with less planets. It haven't been modified in the last year because I totally forgot about this project , but the modified changes came at the width and height (the window was a little bit to large) and I forgot to add the package "pygame" to the code itself , I added it by installing the latest version.
+In order to use this you need to have installed on your computer the latest version of python , and run a simple command to run it. In the previous versions it didn't worked because of the pygame , and the coded returned with a syntax error. 
+The project is a little bit elaborated because in the video that I found on YouTube the person used real values for the planets (physics , mass and radius). Hope to enjoy it.
